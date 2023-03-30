@@ -2,7 +2,7 @@
 .container{
     width: 40%;
     margin-top: 50px;
-    background-image: url('D:\todolist-app\public\img\back-ground.jpg');
+    background-image: url('/public/img/back-ground.jpg');
     background-size: 400px;
     border: none;
     padding: 30px;
